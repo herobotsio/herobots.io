@@ -9,5 +9,16 @@
 	<atom:link href="https://www.herobots.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>READY</title>
+      <link>https://www.herobots.io/posts/ready_2020-06-22/</link>
+      <pubDate>Mon, 22 Jun 2020 21:17:19 -0700</pubDate>
+      
+      <guid>https://www.herobots.io/posts/ready_2020-06-22/</guid>
+      <description>This is the first post of the website, and to announce the launch of the website! When the HERO 1 first starts up, it makes a &amp;ldquo;READY&amp;rdquo; proclamation. So, instead of the typical &amp;ldquo;Hello World&amp;rdquo; or &amp;ldquo;Blinking LED&amp;rdquo;, we&amp;rsquo;re going to start with &amp;ldquo;READY.&amp;rdquo;
+For those not familiar, here&amp;rsquo;s a video of a HERO 1 starting up. Enjoy, and stay tuned!
+  </description>
+    </item>
+    
   </channel>
 </rss>

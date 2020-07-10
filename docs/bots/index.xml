@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bots on HEROBOTS</title>
-    <link>https://www.herobots.io/bots/</link>
+    <link>https://herobots.io/bots/</link>
     <description>Recent content in Bots on HEROBOTS</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://www.herobots.io/bots/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://herobots.io/bots/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

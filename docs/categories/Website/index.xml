@@ -5,10 +5,19 @@
     <link>https://herobots.io/categories/Website/</link>
     <description>Recent content in Website on HEROBOTS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Jun 2020 21:17:19 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2020 10:20:14 -0700</lastBuildDate>
     
 	<atom:link href="https://herobots.io/categories/Website/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Website Update and HEROBOTS Gets a New Logo</title>
+      <link>https://herobots.io/posts/website-update_new_logo_2020-07-10/</link>
+      <pubDate>Fri, 10 Jul 2020 10:20:14 -0700</pubDate>
+      
+      <guid>https://herobots.io/posts/website-update_new_logo_2020-07-10/</guid>
+      <description>&lt;p&gt;This site is developed using a static generator called &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and the Hugo template called &lt;a href=&#34;https://themes.gohugo.io/hugo-book/&#34;&gt;Book&lt;/a&gt; created by &lt;a href=&#34;https://github.com/alex-shpak/&#34;&gt;Alex Shpak&lt;/a&gt;. It&amp;rsquo;s taking me some time to understand how to both use Hugo and get my head around the various theme components, configuration and how to structure the website.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>READY</title>
